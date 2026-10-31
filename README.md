@@ -55,6 +55,29 @@ The system reduces manual follow-ups, improves payment tracking, and helps busin
 - The current version sends automated email reminders but does not process payments.
 - The system is designed around a single reminder status rather than a multi-stage reminder schedule.
 
+## Screenshots
+
+### 1. Invoice Confirmation Scenario
+![Invoice Confirmation Scenario](invoice-confirmation-scenario.png)
+
+### 2. Automated Payment Reminder Scenario
+![Payment Reminder Scenario](payment-reminder-scenario.png)
+
+### 3. Invoice Search Filter
+![Invoice Search Filter](invoice-search-filter.png)
+
+### 4. Overdue Date Filter
+![Overdue Date Filter](overdue-date-filter.png)
+
+### 5. Payment Reminder Email
+![Payment Reminder Email](payment-reminder-email.png)
+
+### 6. Google Sheets Invoice Tracker
+![Invoice Tracker](invoice-tracker.png)
+
+### 7. Successful Test Run
+![Successful Test Run](successful-test-run.png)
+
 ## Future Improvements
 
 - Integrate payment gateways.
